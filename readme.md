@@ -2,7 +2,6 @@
 
 ## Table of Content
 
-- [Disclaimer](#diclaimer)
 - [Apa itu React?](#apa-itu-react)
 - [Create React App + JSX](#create-react-app--jsx)
 - [Membuat Component](#membuat-component)
